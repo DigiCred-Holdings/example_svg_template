@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 9.53 500 490" id="SVG">
+  <g id="terms" visibility="hidden" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <rect x="28" y="0" width="457" height="88" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" id="terms_box"/>
+    <text x="50" y="35" style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;">Term:</text>
+    <text x="141" y="35" style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" id="termGradeLevel">term</text>
+    <rect x="48" y="48" width="92" height="38" style="paint-order: fill markers; stroke: rgba(40, 58, 35, 0.773); fill: rgb(118, 112, 112);"/>
+    <rect x="142" y="48" width="132" height="38" style="stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1; fill: rgb(118, 112, 112);"/>
+    <rect x="274" y="48" width="192" height="38" style="stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1; fill: rgb(118, 112, 112);"/>
+    <text x="64" y="75" style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 21px; white-space: pre;">Grade</text>
+    <text x="166" y="75" style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 22px; white-space: pre;">Code</text>
+    <text x="293" y="75" style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 22px; white-space: pre;">Title</text>
+  </g>
+  <g id="courses" visibility="hidden" transform="matrix(1, 0, 0, 1, 0, 30)">
+    <rect x="28" y="0" width="457" height="38" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;" id="courses_box"/>
+    <rect x="48" y="0" width="92" height="38" style="fill: rgb(216, 216, 216); stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1;" />
+    <rect x="142" y="0" width="132" height="38" style="fill: rgb(216, 216, 216); stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1;" />
+    <rect x="274" y="0" width="192" height="38" style="fill: rgb(216, 216, 216); stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1;" />
+    <text x="60" y="25" style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" id="grade">X</text>
+    <text x="160" y="25" style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" id="courseCode">CODE</text>
+    <text x="294" y="25" style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" id="courseTitle">Course Title</text>
+  </g>
+  <g id="header" style="" >
+    <rect x="28" y="0" width="457" height="56" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" id="header_box"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20.3px; white-space: pre;" x="52" y="44">Student Name:</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.6px; white-space: pre;" x="275" y="44" id="studentFullName">Name</text>
+  </g>
+  <g id="footer" >
+    <rect x="28" y="0" width="457" height="68" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+  </g>
+</svg>

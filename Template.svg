@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 9.53 500 500">
+  <g id="Document_header">
+    <rect x="28.59" y="20.33" width="457.433" height="94.292" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="48.92" y="58.45">Student Name:</text>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="255.4" y="59.721" id="Student_name">Name</text>
+  </g>
+  <g id="CourseTable_header">
+    <rect x="48.92" y="76.874" width="92.757" height="38.119" style="paint-order: fill markers; stroke: rgba(40, 58, 35, 0.773); fill: rgb(118, 112, 112);" id="Title1"/>
+    <rect x="142.313" y="76.874" width="132.147" height="38.119" style="stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1; fill: rgb(118, 112, 112);" id="Title2"/>
+    <rect x="274.46" y="76.874" width="192.504" height="38.119" style="stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1; fill: rgb(118, 112, 112);" id="Title3"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 21px; white-space: pre;" x="64.167" y="103.558">Code</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 22px; white-space: pre;" x="166.455" y="103.558">Name</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 22px; white-space: pre;" x="293.52" y="103.558">Description</text>
+  </g>
+  <g id="CourseTable_row">
+    <rect x="27.954" y="114.994" width="457.433" height="38.119" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"id="CourseTable_rowbox"/>
+    <rect x="48.92" y="114.994" width="92.757" height="38.119" style="fill: rgb(216, 216, 216); stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1;" id="CourseTable_column1"/>
+    <rect x="142.313" y="114.994" width="132.147" height="38.119" style="fill: rgb(216, 216, 216); stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1;" id="CourseTable_column2"/>
+    <rect x="274.46" y="114.994" width="192.504" height="38.119" style="fill: rgb(216, 216, 216); stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1;" id="CourseTable_column3"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="60.356" y="139.136" id="Course_code">MA101</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="160.102" y="139.136" id="Course_name">Math</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="294.156" y="139.136" id="Course_description">Intro to math</text>
+  </g>
+  <g id="CourseTable_row1">
+    <rect x="27.954" y="154.994" width="457.433" height="38.119" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"id="CourseTable_rowbox1"/>
+    <rect x="48.92" y="154.994" width="92.757" height="38.119" style="fill: rgb(216, 216, 216); stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1;" id="CourseTable_column11"/>
+    <rect x="142.313" y="154.994" width="132.147" height="38.119" style="fill: rgb(216, 216, 216); stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1;" id="CourseTable_column21"/>
+    <rect x="274.46" y="154.994" width="192.504" height="38.119" style="fill: rgb(216, 216, 216); stroke: rgb(40, 58, 35); paint-order: fill; stroke-width: 1;" id="CourseTable_column31"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="60.356" y="179.136" id="Course_code1">MA101</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="160.102" y="179.136" id="Course_name1">Math</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="294.156" y="179.136" id="Course_description1">Intro to math</text>
+  </g>
+  <rect x="27.955" y="195.205" width="457.433" height="68.243" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+</svg>
